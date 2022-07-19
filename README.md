@@ -1,4 +1,4 @@
-<h1 align="center">### Hi there 👋 I am [Vidit!]("https://github.com/viditpujara")</h1>
+### Hi there 👋 I am [Vidit!]("https://github.com/viditpujara")
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viditpujara)
 [![LinkTree Badge](https://img.shields.io/badge/LinkTree-242936?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/viditPujara)
