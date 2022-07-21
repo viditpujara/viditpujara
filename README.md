@@ -31,6 +31,7 @@ I am a student of CSE. Have worked on Android application development along with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-787CB4?&style=for-the-badge&logo=php&logoColor=black)
 
 
 **📫 How to reach me**
