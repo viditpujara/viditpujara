@@ -14,7 +14,7 @@ I am a student of CSE. Have worked on Android application development along with
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/viditpujara/viditpujara/blob/main/coder.gif" />
 
 **🔭 I’m currently learning**
 - Python
